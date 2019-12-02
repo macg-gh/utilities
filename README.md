@@ -1,7 +1,8 @@
 # utilities
 generally useful things that were not made for any one specific project
 
-1 - haveibeenpwned password Pwned Passwords API checker python script, hashes.py
+1 - hashes.py : haveibeenpwned.com Pwned Passwords API checker python script
+
 how to use - 
 Make a file in the same directory as this script, called hashes.txt, that has utf-8 encoding (chances are it will unless another is intentionally selected).
 Put all the passwords you want to check against the Pwned Passwords API in this file, line by line.

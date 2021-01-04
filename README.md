@@ -14,3 +14,9 @@ This does provide a quick way to see if any passwords are in the database of pwn
 See https://haveibeenpwned.com/ and particularly https://haveibeenpwned.com/API/v3 for background information.
 
 Obviously, delete the file containing your passwords and clear your recycle bin after using this.
+
+
+2 - node template
+
+a starting point for node exercises to include common parts. Pasting here b/c at this point it is small:
+

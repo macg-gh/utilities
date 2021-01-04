@@ -15,7 +15,7 @@ See https://haveibeenpwned.com/ and particularly https://haveibeenpwned.com/API/
 
 Obviously, delete the file containing your passwords and clear your recycle bin after using this.
 
-urlencoded
+
 2 - node template
 
 a starting point for node exercises to include common parts.
